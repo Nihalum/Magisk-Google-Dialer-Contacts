@@ -1,0 +1,7 @@
+id=magiskgoogledialercontacts
+name=Magisk Google Dialer & Contacts
+version=v1
+versionCode=1.0
+author=Nihalum
+description=Systemless Google Dialer and Contacts for any(?) phone
+minMagisk=1500
